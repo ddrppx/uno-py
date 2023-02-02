@@ -9,4 +9,4 @@ Game ends at the first player to empty his/hers deck
 </p>
 
 Demo:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1-cEfCVvKrU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+<img src="https://files.catbox.moe/7tt1t5.gif" width="100%">
