@@ -1,0 +1,542 @@
+[
+    {
+        "color": 1,
+        "number": 0,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 1,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 1,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 2,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 2,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 3,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 3,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 4,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 4,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 5,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 5,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 6,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 6,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 7,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 7,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 8,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 8,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 9,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": 9,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 0,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 1,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 1,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 2,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 2,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 3,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 3,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 4,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 4,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 5,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 5,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 6,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 6,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 7,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 7,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 8,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 8,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 9,
+        "usage": 0
+    },
+    {
+        "color": 2,
+        "number": 9,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 0,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 1,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 1,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 2,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 2,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 3,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 3,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 4,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 4,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 5,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 5,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 6,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 6,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 7,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 7,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 8,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 8,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 9,
+        "usage": 0
+    },
+    {
+        "color": 3,
+        "number": 9,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 0,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 1,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 1,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 2,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 2,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 3,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 3,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 4,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 4,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 5,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 5,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 6,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 6,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 7,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 7,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 8,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 8,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 9,
+        "usage": 0
+    },
+    {
+        "color": 4,
+        "number": 9,
+        "usage": 0
+    },
+    {
+        "color": 1,
+        "number": "+2",
+        "usage": 1
+    },
+    {
+        "color": 1,
+        "number": "x",
+        "usage": 3
+    },
+    {
+        "color": 1,
+        "number": "\u21b3\u21b0",
+        "usage": 5
+    },
+    {
+        "color": 1,
+        "number": "+2",
+        "usage": 1
+    },
+    {
+        "color": 1,
+        "number": "x",
+        "usage": 3
+    },
+    {
+        "color": 1,
+        "number": "\u21b3\u21b0",
+        "usage": 5
+    },
+    {
+        "color": 2,
+        "number": "+2",
+        "usage": 1
+    },
+    {
+        "color": 2,
+        "number": "x",
+        "usage": 3
+    },
+    {
+        "color": 2,
+        "number": "\u21b3\u21b0",
+        "usage": 5
+    },
+    {
+        "color": 2,
+        "number": "+2",
+        "usage": 1
+    },
+    {
+        "color": 2,
+        "number": "x",
+        "usage": 3
+    },
+    {
+        "color": 2,
+        "number": "\u21b3\u21b0",
+        "usage": 5
+    },
+    {
+        "color": 3,
+        "number": "+2",
+        "usage": 1
+    },
+    {
+        "color": 3,
+        "number": "x",
+        "usage": 3
+    },
+    {
+        "color": 3,
+        "number": "\u21b3\u21b0",
+        "usage": 5
+    },
+    {
+        "color": 3,
+        "number": "+2",
+        "usage": 1
+    },
+    {
+        "color": 3,
+        "number": "x",
+        "usage": 3
+    },
+    {
+        "color": 3,
+        "number": "\u21b3\u21b0",
+        "usage": 5
+    },
+    {
+        "color": 4,
+        "number": "+2",
+        "usage": 1
+    },
+    {
+        "color": 4,
+        "number": "x",
+        "usage": 3
+    },
+    {
+        "color": 4,
+        "number": "\u21b3\u21b0",
+        "usage": 5
+    },
+    {
+        "color": 4,
+        "number": "+2",
+        "usage": 1
+    },
+    {
+        "color": 4,
+        "number": "x",
+        "usage": 3
+    },
+    {
+        "color": 4,
+        "number": "\u21b3\u21b0",
+        "usage": 5
+    },
+    {
+        "color": 0,
+        "number": "+4",
+        "usage": 2
+    },
+    {
+        "color": 0,
+        "number": "+4",
+        "usage": 2
+    },
+    {
+        "color": 0,
+        "number": "+4",
+        "usage": 2
+    },
+    {
+        "color": 0,
+        "number": "+4",
+        "usage": 2
+    },
+    {
+        "color": 0,
+        "number": "?!",
+        "usage": 4
+    },
+    {
+        "color": 0,
+        "number": "?!",
+        "usage": 4
+    },
+    {
+        "color": 0,
+        "number": "?!",
+        "usage": 4
+    },
+    {
+        "color": 0,
+        "number": "?!",
+        "usage": 4
+    }
+]

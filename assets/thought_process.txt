@@ -1,0 +1,40 @@
+Thought process for making the generate deck script
+
+Cards:
+    0-9: Yellow
+    0-9: Red
+    0-9: Green
+    0-9: Blue
+    
+    +2: Yellow
+    +2: Red
+    +2: Green
+    +2: Blue
+
+    Block: Yellow
+    Block: Red
+    Block: Green
+    Block: Blue
+
+    Color Change: Wild Card
+    +4: Wild Card
+
+Players:
+    Gets 7 cards at start
+    Buys a card
+
+Playing:
+    Discard with same color/usage (+2, +4, block)
+Discard with same number
+    Discard with wild card
+
+game class:
+    4 players (instantiated)
+    table card
+    deck to draw of
+
+Official game rules:
+    108 cards:
+        76 number cards,
+        24 action cards,
+        8 wild cards.
