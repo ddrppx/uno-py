@@ -1,5 +1,5 @@
 # Uno-py
-Recreating UNO on the CLI with Object Oriented Python (OOP)
+Recreating UNO on the CLI with Object Oriented Python
 
 # Usage
 <p>Insert your nickname<br/>
