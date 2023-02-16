@@ -69,6 +69,42 @@ class Player:
 
         return str
 
+    def sortDeck(self):
+
+        if self.isPlayer():
+            def appending(mainArr, Arr):
+                for card in Arr:
+                    mainArr.append(card)
+
+            sorted_cards = []
+            W = []
+            R = []
+            G = []
+            B = []
+            Y = []
+
+            for card in self.cards:
+                card_color = card.getColor()
+
+                if card_color == 0:
+                    W.append(card)
+                elif card_color == 3:
+                    R.append(card)
+                elif card_color == 1:
+                    G.append(card)
+                elif card_color == 2:
+                    B.append(card)
+                elif card_color == 4:
+                    Y.append(card)
+
+            appending(sorted_cards, W)
+            appending(sorted_cards, R)
+            appending(sorted_cards, G)
+            appending(sorted_cards, B)
+            appending(sorted_cards, Y)
+
+            self.cards = sorted_cards
+
     def qntCards(self, positions = True):
             # returns number of positions in array
         if positions:
@@ -76,7 +112,7 @@ class Player:
             return len(self.cards) - 1
         else:
                 # Returns actual quantity of cards 
-            return len(self.cards) 
+            return len(self.cards)
 
     def getCards(self):
         return self.cards

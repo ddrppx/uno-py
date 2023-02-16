@@ -12,7 +12,6 @@ class Game:
         self.players = players
         self.table_card = 0
         self.deck = []
-            # To reuse used deck
         self.played_cards = []
 
     def getPlayer(self, position):
@@ -79,6 +78,8 @@ class Game:
         for player in self.players:
             for i in range(quant_cards):
                 player.addCard(self.drawCard())
+
+                player.sortDeck();
 
         # Draws card to the table
         self.setTableCard(self.drawCard())
@@ -164,7 +165,7 @@ class Game:
         else:
             ext = '.'
 
-        out_str = f"{player_name} bought{ext}"
+        out_str = f"{player_name} bought {ext}"
         self.output(out_str, True)
 
         # Card buying function
@@ -226,11 +227,13 @@ class Game:
                 # Buy two [+2]
             if type == 1:
                 self.buyCard(player, 2)
+                player.sortDeck()
                 r = True
 
                 # Buy four [+4]
             elif type == 2:
                 self.buyCard(player, 4)
+                player.sortDeck()
                 r = True
 
                 # Next player blocked
@@ -373,7 +376,10 @@ class Game:
                             if play_bought_card.lower() == 'y':
                                     # Bring last added card info to test playability
                                 played_card = player.getCard(-1)
+                            else:
+                                player.sortDeck()
                         else:
+                            player.sortDeck()
                             break
                     else:
                         if self.intInput(input_data):
